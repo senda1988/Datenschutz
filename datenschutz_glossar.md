@@ -16,7 +16,7 @@
 
 ### Personenbezogene Daten 
 
-***Definition***: Daten, die zu einer bestimmten Person gehören.
+**Definition**: Daten, die zu einer bestimmten Person gehören.
 
 ***Beispiel***: Name, E-Mail-Adresse, Telefonnummer.
 
