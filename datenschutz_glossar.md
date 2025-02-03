@@ -16,13 +16,13 @@
 
 ### Personenbezogene Daten 
 
-*** Definition ***: Daten, die zu einer bestimmten Person gehören.
+***Definition***: Daten, die zu einer bestimmten Person gehören.
 
-*** Beispiel ***: Name, E-Mail-Adresse, Telefonnummer.
+***Beispiel***: Name, E-Mail-Adresse, Telefonnummer.
 
 ### Sensible Daten
 
-*** Definition: ***  Sehr persönliche Daten, die besonders geschützt werden müssen.
+***Definition:***  Sehr persönliche Daten, die besonders geschützt werden müssen.
 
 *** Beispiel: *** Krankheitsdaten, Religion, politische Meinung.
 
