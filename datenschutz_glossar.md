@@ -1,15 +1,4 @@
-# Datenschutz und Datensicherheit
-
-### datenschutz:
-
-### Datenschutz-skandale:
-
-### Datensicherheit
-
-
-### DSGVO
-
-### CCPA(Kalifornisches Datenschutzgesetz)
+# Aufgabe 1
 
 
 
@@ -57,3 +46,27 @@
 ***Definition:***   Schutz von Daten vor Diebstahl oder Verlust.
 
 ***Beispiel:*** Verschlüsselung von Nachrichten in einem Messenger.
+
+### Datenschutz
+
+***Definition:***  Regeln und Maßnahmen, um persönliche Informationen zu schützen.
+
+***Beispiel:*** Unternehmen müssen die Daten ihrer Kunden sicher speichern.
+
+### Datenschutz-Skandale
+
+***Definition:***  Fälle, in denen persönliche Daten missbraucht oder gestohlen wurden.
+
+***Beispiel:***  Der Facebook-Cambridge-Analytica-Skandal 2018.
+
+### DSGVO (Datenschutz-Grundverordnung)
+
+***Definition:*** Ein europäisches Gesetz, das persönliche Daten schützt.
+
+***Beispiel:***  Unternehmen müssen Nutzer um Erlaubnis fragen, bevor sie Daten verwenden.
+
+### CCPA (California Consumer Privacy Act)
+
+***Definition:*** Ein kalifornisches Gesetz, das Menschen mehr Kontrolle über ihre Daten gibt.
+
+***Beispiel:***  Ein Nutzer kann verlangen, dass eine Firma seine Daten löscht.
